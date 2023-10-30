@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: front-end
-          image: bharathsharath/python-project
+          image: anshuman123abc/python
           imagePullPolicy: Always
           ports:
             - containerPort: 8732
